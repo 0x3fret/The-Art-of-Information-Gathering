@@ -1,6 +1,7 @@
-This book helps readers understand how to gather and analyze information in penetration testing. It explains why information gathering is important and how it supports safer and more effective security testing.
+A brief overview of the book:
 
+This very simple book explains the importance of information gathering and why it is crucial in the penetration testing phase, as well as the different types of information gathering.
 
+لمحة موجزة عن الكتاب :
 
-
-يساعد هذا الكتاب القراء على فهم كيفية جمع المعلومات وتحليلها في اختبار الاختراق. ويشرح أهمية جمع المعلومات وكيف يدعم اختبارات أمنية أكثر أمانًا وفعالية.
+يشرح هذا الكتاب البسيط أهمية جمع المعلومات وأهميته في مرحلة اختبار الاختراق، بالإضافة إلى أنواع جمع المعلومات المختلفة.
